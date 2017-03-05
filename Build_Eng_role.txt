@@ -1,0 +1,29 @@
+Responsibilities:
+
+•Responsible for software builds and releases
+•Configure and setup build environment and toolchains for embedded systems.
+•Maintaining and enhancing the continuous integration environment
+•Developing tools to help automate build release processes.
+•Evaluating and adopting new tools to improve build release processes.
+•Automating the install and upgrade process and deploying it in QA and other test environments.
+
+
+Qualifications:
+
+•Strong experience with embedded system build frameworks,
+•Strong knowledge of Source Code Control Systems/Maintenance of source code repositories (Perforce/Git);
+•Strong knowledge in cMake;
+•Strong scripting skills: Shell, Perl;
+•Experience with continuous integration and deployment practices;
+•Be passionate about automation;
+•Experience with build system like Yocto or Buildroot is a plus
+•Experience with Amazon AWS is a plus
+•Experience with Android and/or iOs build system is a plus
+•C++ is a plus
+
+
+Interpersonal Skills
+
+•Self-motivated, team player, action-and-results oriented
+•Well organized, great communication and reporting skills
+•Ability to successfully work under tight project deadlines
